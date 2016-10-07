@@ -1,0 +1,36 @@
+{
+  "name": "nlk-reset",
+  "authors": [
+    "James Cool <jeffreysbrother@gmail.com>"
+  ],
+  "description": "CSS reset + utilities for Ninthlink",
+  "main": "nlk.css",
+  "keywords": [
+    "css",
+    "reset",
+    "normalize",
+    "utilities",
+    "equal height columns",
+    "ninthlink",
+    "james cool"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jeffreysbrother/nlk-reset",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "dc55a31ed3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dc55a31ed3879c8651d4167d6571d5bfc268e008"
+  },
+  "_source": "https://github.com/jeffreysbrother/nlk-reset.git",
+  "_target": "*",
+  "_originalSource": "nlk-reset",
+  "_direct": true
+}

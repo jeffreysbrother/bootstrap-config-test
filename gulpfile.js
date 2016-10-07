@@ -2,12 +2,12 @@ var gulp = require('gulp');
 var wiredep = require('wiredep').stream;
 
 gulp.task('wiredep', function () {
-  gulp.src('./index.html')
+  gulp.src('./app/index.html')
     .pipe(wiredep({
-      optional: 'configuration',
-      goes: 'here'
+      // optional: 'configuration',
+      // goes: 'here'
     }))
-    .pipe(gulp.dest('./dest'));
+    .pipe(gulp.dest('./dist'));
 });
 
 gulp.task('default', function() {
