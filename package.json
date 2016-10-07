@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-config-test",
+  "version": "1.0.0",
+  "description": "Experimenting with a stripped-down Bootstrap file (no JavaScript and only the bare minimum styles). I am using this test as a way to judge what additional utilities might be necessary. We will also likely experiment with Gulp wiredep and Bower in order to maximize efficiency of pulling in the required assets.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreysbrother/bootstrap-config-test.git"
+  },
+  "author": "james cool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreysbrother/bootstrap-config-test/issues"
+  },
+  "homepage": "https://github.com/jeffreysbrother/bootstrap-config-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
