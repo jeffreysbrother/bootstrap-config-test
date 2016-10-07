@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jeffreysbrother/bootstrap-config-test#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "wiredep": "^4.0.0"
   }
 }
