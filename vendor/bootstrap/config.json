@@ -385,6 +385,7 @@
     "type.less",
     "grid.less",
     "forms.less",
+    "buttons.less",
     "responsive-utilities.less",
     "navs.less",
     "navbar.less",
@@ -397,5 +398,5 @@
     "close.less"
   ],
   "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=559fa00f2a6d690efec065c396a17d42"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=d458301f215bdcaa7be2d5654d4aba6b"
 }
